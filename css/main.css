@@ -1201,6 +1201,10 @@ a.menu-toggle {
 	height: 90px;
 	margin-bottom: 4.2rem;
 	outline: none;
+    color: #8e44ad;
+}
+.intro-content .video-link a:hover {
+    color: #ffffff;
 }
 .intro-content .button {
 	border-color: #FFFFFF;
@@ -2093,7 +2097,7 @@ a.menu-toggle {
 	display: inline-block;
 }
 .cta-content .stores li .button {
-	background: #04a393;
+	background: #4C1C60;
 	color: #FFFFFF;
 	margin-right: 12px;
 	display: block;
@@ -2350,7 +2354,7 @@ footer ul li {
 	width: 60px;
 	line-height: 66px;
 	text-align: center;
-	background: #048a7c;
+	background: #4C1C60;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
@@ -2365,7 +2369,7 @@ footer ul li {
 	line-height: inherit;
 }
 #go-top a:hover {
-	background: #ff7b29;
+	background: #c94c00;
 	color: #FFFFFF;
 }
 
